@@ -1,0 +1,87 @@
+# Render Information: Example Render
+
+## Application Used
+- **Application:** Stable Diffusion
+
+## Prompts Used
+- **Positive:**
+  - Cyberpunk cityscape with motorcycles
+  - Neon-lit streets
+  - Futuristic skyscrapers
+  - Bustling urban environment
+  - Dramatic lighting and shadows
+  - Sleek and high-tech motorcycles
+  - Energetic and dynamic poses
+  - Reflections of neon lights on wet surfaces
+  - Urban decay with a touch of modernity
+  - Create a scene that captures the adrenaline and excitement of a cyberpunk metropolis with the presence of futuristic motorcycles.
+
+- **Negative:**
+  - Illustrated:1.2
+  - Cartoon:1.2
+  - Stylized:1.2
+  - Artistic:1.2
+  - Animated:1.2
+  - Fantasy:1.2
+  - Surreal:1.2
+  - Abstract:1.2
+  - Exaggerated Features:1.2
+  - Caricatured:1.2
+  - Impressionistic:1.2
+  - Low Detail:1.2
+  - Comic:1.2
+  - Sketch:1.2
+  - Watercolor:1.2
+  - Minimalistic:1.2
+  - Blurry:1.2
+  - Pixelated:1.2
+  - Monochrome:1.2
+  - Glowing:1.2
+  - High Saturation:1.2
+  - High Contrast:1.2
+  - Grainy:1.2
+  - Dreamlike:1.2
+  - Cell Shaded:1.2
+  - Oil Painting:1.2
+  - Pop Art:1.2
+  - Inverted Colors:1.2
+  - Distorted:1.2
+  - Sketch Lines:1.2
+  - Unrealistic Lighting:1.2
+  - Geometric Shapes:1.2
+  - Abstract Background:1.2
+  - Busy Background:1.2
+  - Overly Dramatic Pose:1.2
+  - Comic Book Style:1.2
+  - Soft Focus:1.2
+  - Textured:1.2
+  - Glossy:1.2
+  - Pastel Colors:1.2
+  - Mosaic:1.2
+  - HDR Effect:1.2
+  - Tilt-shift:1.2
+  - Fish-eye Lens:1.2
+  - Lens Flare:1.2
+  - Double Exposure:1.2
+  - Rainbow Colors:1.2
+  - Glitch Art:1.2
+  - Collage:1.2
+  - Hand Drawn:1.2
+  - 3D Model:1.2
+  - Symmetrical:1.2
+  - Abstract Facial Features:1.2
+  - Extreme Angles:1.2
+  - Unrealistic Skin Tones:1.2
+  - Selective Coloring:1.2
+  - Excessive Blur:1.2
+  - Highly Saturated Background:1.2
+  - Pop Culture References:1.2
+  - Unrealistic Proportions:1.2
+  - Intricate Patterns:1.2
+
+## Application Configuration
+- **Model Used:** CyberRealistic_V3.0.safetensor
+- **Extension:** txt2img
+- **Sample Steps:** 150
+- **Sample Method:** DDIM
+
